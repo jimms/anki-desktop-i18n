@@ -56,7 +56,7 @@ msgstr "%"
 
 #: pylib/anki/stats.py:796 pylib/anki/stats.py:818
 msgid "% Correct"
-msgstr "正确率（%）"
+msgstr "正確率（%）"
 
 #: pylib/anki/stats.py:1112
 #, python-format
